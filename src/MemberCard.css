@@ -1,0 +1,11 @@
+.member-card {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: white;
+    border-radius: 15px;
+    color: black;
+}
+.member-card img{
+    width: 50%;
+}
